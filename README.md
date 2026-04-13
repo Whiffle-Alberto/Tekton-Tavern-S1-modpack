@@ -1,5 +1,5 @@
-# Tekton-Tavern-S1-modpack
-modpack for my private server  
+# Tekton-Tavern-S1
+Client files for my private minecraft SMP.  
   
 Installation instructions:  
 • Download the latest release.  
