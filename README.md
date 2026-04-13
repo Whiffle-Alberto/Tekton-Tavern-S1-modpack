@@ -23,5 +23,5 @@ You can remove/add more, in accordance with server rules.
 3. Delete the downloaded zip file.  
 
 ## Version
-latest - v1.0
-recommended - v1.0
+latest - v1.0  
+recommended - v1.0  
